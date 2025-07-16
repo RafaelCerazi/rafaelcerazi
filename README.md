@@ -4,14 +4,14 @@ Olá! Me chamo Rafael, tenho 19 anos e sou estudante de Análise e Desenvolvimen
 
 Tenho grande interesse em desenvolvimento de sistemas, especialmente nas áreas de desenvolvimento web e mobile, análise de dados e otimização de processos. Busco oportunidades para aplicar e expandir meus conhecimentos em programação, contribuindo com soluções criativas e eficientes.
 
-Tecnologias de interesse: JavaScript, Python, Java, HTML/CSS, SQL, Git, entre outras.
-
+Tecnologias de interesse: JavaScript, Python, Java, SQL, entre outras.
+_____________________________________________________________________________________________________________________________
 Hi! I'm Rafael, a 19-year-old student currently pursuing a degree in Systems Analysis and Development at UNIP Araraquara (3rd semester). I also hold a technical high school diploma in Computer Science from SENAC São Carlos.
 
 I'm passionate about software development and currently focused on expanding my skills in web and mobile development, data analysis, and process optimization. I'm actively looking for opportunities where I can apply my knowledge and grow as a developer.
 
-Technologies I'm working with or learning: JavaScript, Python, Java, HTML/CSS, SQL, Git, and more.
-
+Technologies I'm working with or learning: JavaScript, Python, Java, SQL, and more.
+_____________________________________________________________________________________________________________________________
 ### 📊 Estatísticas/Statistics
 <p>
   <img 
