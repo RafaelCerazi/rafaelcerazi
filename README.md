@@ -1,12 +1,16 @@
 ## 👩🏻‍💻 Rafael Cerazi
 
-Olá me chamo Rafael tenho 19 anos!
+Olá! Me chamo Rafael, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas no 3º semestre pela UNIP Araraquara. Possuo formação técnica em Informática integrada ao Ensino Médio pelo SENAC São Carlos.
 
-Sou estudante de ADS (Análise e Desenvolvimento de Sistemas) no terceiro semestre na UNIP Araraquara, com formação em Informática integrada ao Ensino Médio Técnico pelo SENAC São Carlos. Busco oportunidades para aplicar meus conhecimentos na área de programação, com interesse em áreas como desenvolvimento de sistemas web e mobile, softwares, análise de dados e otimização de processos.
+Tenho grande interesse em desenvolvimento de sistemas, especialmente nas áreas de desenvolvimento web e mobile, análise de dados e otimização de processos. Busco oportunidades para aplicar e expandir meus conhecimentos em programação, contribuindo com soluções criativas e eficientes.
 
-Hi my name is Rafael I'm 19!
+Tecnologias de interesse: JavaScript, Python, Java, HTML/CSS, SQL, Git, entre outras.
 
-I'm studying ADS (Analysis and Development of Systems) on UNIP Araraquara, I'm graduated in Computer Science by SENAC São Carlos. I'm seeking for opportunities to apply my knowledge on the programming area, I'm interested in areas of working like web and mobile developer, software developer, database analyst and process optimizer.
+Hi! I'm Rafael, a 19-year-old student currently pursuing a degree in Systems Analysis and Development at UNIP Araraquara (3rd semester). I also hold a technical high school diploma in Computer Science from SENAC São Carlos.
+
+I'm passionate about software development and currently focused on expanding my skills in web and mobile development, data analysis, and process optimization. I'm actively looking for opportunities where I can apply my knowledge and grow as a developer.
+
+Technologies I'm working with or learning: JavaScript, Python, Java, HTML/CSS, SQL, Git, and more.
 
 ### 📊 Estatísticas/Statistics
 <p>
