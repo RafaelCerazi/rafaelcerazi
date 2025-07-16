@@ -1,5 +1,4 @@
 ## 👩🏻‍💻 Rafael Cerazi
-**`Desenvolvedor Back-End`**
 
 Olá me chamo Rafael tenho 19 anos!
 
