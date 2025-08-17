@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Rafael Cerazi
+## 🧑🏻‍💻 Rafael Cerazi
 
 Olá! Me chamo Rafael, tenho 20 anos
 
