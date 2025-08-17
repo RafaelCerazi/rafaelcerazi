@@ -1,12 +1,12 @@
 ## 👩🏻‍💻 Rafael Cerazi
 
-Olá! Me chamo Rafael, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas no 3º semestre pela UNIP Araraquara. Possuo formação técnica em Informática integrada ao Ensino Médio pelo SENAC São Carlos.
+Olá! Me chamo Rafael, tenho 20 anos
 
 Tenho grande interesse em desenvolvimento de sistemas, especialmente nas áreas de desenvolvimento web e mobile, análise de dados e otimização de processos. Busco oportunidades para aplicar e expandir meus conhecimentos em programação, contribuindo com soluções criativas e eficientes.
 
 Tecnologias de interesse: JavaScript, Python, Java, SQL, entre outras.
 _____________________________________________________________________________________________________________________________
-Hi! I'm Rafael, a 19-year-old student currently pursuing a degree in Systems Analysis and Development at UNIP Araraquara (3rd semester). I also hold a technical high school diploma in Computer Science from SENAC São Carlos.
+Hi! I'm Rafael, a 20 year old men from Brazil
 
 I'm passionate about software development and currently focused on expanding my skills in web and mobile development, data analysis, and process optimization. I'm actively looking for opportunities where I can apply my knowledge and grow as a developer.
 
